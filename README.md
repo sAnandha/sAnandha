@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/anandhanivas-s/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anandhanivas-s/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@askme_edits" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@askme_edits" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@askme_edits" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@askme_edits" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/askmenivi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="askmenivi" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sanandhanivas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sanandhanivas" height="30" width="40" /></a>
 </p>
